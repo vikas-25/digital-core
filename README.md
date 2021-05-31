@@ -1,3 +1,3 @@
 # digital-core
 digital core application with pom.xml
-integrated with Jenkins Server-123
+Webhook integration configured
