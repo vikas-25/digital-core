@@ -3,8 +3,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>ztest</groupId>
-  <artifactId>digital-core</artifactId>
-  <version>1.1.14</version>
+  <artifactId>digitalcore</artifactId>
+  <version>1.1.15</version>
   <packaging>jar</packaging>
 
   <name>ztest1</name>
