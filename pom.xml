@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>ztest</groupId>
-  <artifactId>digitalcore</artifactId>
+  <artifactId>digitalcore-app</artifactId>
   <version>1.1.15</version>
   <packaging>jar</packaging>
 
